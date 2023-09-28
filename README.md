@@ -1294,4 +1294,4 @@ alex@/tmp/sort$
 **Repo:**
 
 -   GitHub repository: `sorting_algorithms`
--   File: `1000-sort_deck.c, deck.h`
+-   File: `1000-sort_deck.c, deck.h`sorting algorithms
